@@ -3,6 +3,6 @@
 Static GitHub Pages portfolio.
 
 ## Deploy
-Create a repository named `shriyanshiitg.github.io`, copy these files into it, and enable GitHub Pages from the repository's Pages settings.
+Create/use the repository `shriyanshiitg.github.io` and copy the contents of this folder into the repository root.
 
-The site already includes three CVs and links to the GitHub/LinkedIn profiles supplied by Shriyansh.
+The portfolio uses one recruiter-facing CV: the Data Analyst CV, positioned as the middle ground across data, analytics and product.
